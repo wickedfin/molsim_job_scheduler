@@ -1,0 +1,6 @@
+# node_name max_cores limits
+amd     160  80    
+xeonphi 128  64
+aa      64   32
+ab       6   3 
+ac      204  102

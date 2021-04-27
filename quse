@@ -1,0 +1,2 @@
+#!/bin/bash
+/bin/python3 /usr/local/mjs/quse.py $@
